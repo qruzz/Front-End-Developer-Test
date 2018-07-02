@@ -91,3 +91,5 @@ If you can answer yes to most of the below questions, you are good to go.
 ## Closing Remarks
 
 Feel free to be as creative with the solution as you wish. Nothing more than what is presented in this file is expected, although if you feel like adding anything to display your skills, feel free to do so.
+
+If you have any questions during the completion, feel free to contact me at [michael@shoki.io](mailto:michael@shoki.io).
